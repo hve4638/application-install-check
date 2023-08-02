@@ -1,0 +1,7 @@
+__pycache__
+tmp
+All/*.*
+Heavy/*.*
+.hash/hash-all.txt
+.hash/hash-heavy.txt
+
